@@ -1,0 +1,4 @@
+I dont know any new recipes.
+
+I am adding this file as newRecipe.txt as my file on the repository.
+
